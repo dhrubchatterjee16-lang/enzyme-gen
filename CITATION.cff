@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use EnzymeGen, please cite it as below."
+authors:
+  - family-names: "Chatterjee"
+    given-names: "Dhrub"
+title: "EnzymeGen: ProteinGym DMS Benchmark & ESM-2 Zero-Shot Mutational Engine"
+version: 1.0.0
+date-released: 2026-10-20
+url: "https://github.com/dhrubchatterjee16-lang/enzyme-gen"
+keywords:
+  - esm-2
+  - enzyme-engineering
+  - deep-mutational-scanning
+  - biocatalysis
